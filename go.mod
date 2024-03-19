@@ -35,7 +35,7 @@ require (
 	github.com/docker/docker v25.0.3+incompatible
 	github.com/envoyproxy/go-control-plane v0.12.0
 	github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa
-	github.com/go-jose/go-jose/v3 v3.0.1
+	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/godbus/dbus/v5 v5.1.0
 	github.com/gofrs/uuid v4.4.0+incompatible
@@ -50,7 +50,7 @@ require (
 	github.com/hashicorp/go-hclog v1.6.2
 	github.com/hashicorp/go-plugin v1.6.0
 	github.com/hashicorp/hcl v1.0.1-vault-5
-	github.com/hashicorp/vault/api v1.11.0
+	github.com/hashicorp/vault/api v1.12.2
 	github.com/hashicorp/vault/sdk v0.10.2
 	github.com/hpe-usp-spire/schoco v1.1.4
 	github.com/imdario/mergo v0.3.16
@@ -75,7 +75,7 @@ require (
 	github.com/valyala/fastjson v1.6.4
 	github.com/zeebo/errs v1.3.0
 	go.dedis.ch/kyber/v3 v3.1.0
-	golang.org/x/crypto v0.18.0
+	golang.org/x/crypto v0.19.0
 	golang.org/x/exp v0.0.0-20231108232855-2478ac86f678
 	golang.org/x/net v0.20.0
 	golang.org/x/sync v0.6.0
@@ -174,7 +174,7 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v1.0.2 // indirect
 	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
 	github.com/evanphx/json-patch/v5 v5.8.0 // indirect
-	github.com/fatih/color v1.15.0 // indirect
+	github.com/fatih/color v1.16.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/go-chi/chi v4.1.2+incompatible // indirect
@@ -326,7 +326,7 @@ require (
 	go.uber.org/zap v1.26.0 // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/oauth2 v0.16.0 // indirect
-	golang.org/x/term v0.16.0 // indirect
+	golang.org/x/term v0.17.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.16.1 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
